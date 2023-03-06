@@ -1,4 +1,4 @@
-# MINECRAFT-para-DDR2-java-otimizado
+# MINECRAFT-orimização-para-java-FPS++
 
 	-XX:+UseLargePages -XX:+UseFastAccessorMethod -XX:+UseConcMarkSweepGC -XX:+UseStringDeduplication -XX:+UseCompressedOops -XX:+UseStringDeduplication -XX:+UseLargePagesInMetaspace -XX:+UseFastAccessorMethods -XX:+UseLargePages -Dsun.java2d.d3d=true -Dfml.ignorePatchDiscrepancies=true -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:+AggressiveOpts -XX:+UseConcMarkSweepGC -XX:+DisableExplicitGC -jar minecraft.jar
 
